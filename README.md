@@ -20,4 +20,4 @@ Procedure:
 
 ![alt text][image3]
 
-[image3]: https://github.com/jzambrano-xyz/StockPriceWebApp/blob/master/stock-web-app.jpg "Web app running on Streamlit"
+[image3]: https://github.com/jzambrano-xyz/StockPriceWebApp/blob/master/StockPrice.gif "Web app running on Streamlit"
