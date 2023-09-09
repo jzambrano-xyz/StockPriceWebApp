@@ -1,7 +1,7 @@
 # StockPriceWebApp
 A simple Web App to display the stock prices of a Ticker using information from Yahoo Financial
 
-https://colab.research.google.com/github/jzambrano-xyz/StockPriceWebApp/blob/master/Stock_Price_Streamlit.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jzambrano-xyz/StockPriceWebApp/blob/master/Stock_Price_Streamlit.ipynb)
 
 OR:
 
